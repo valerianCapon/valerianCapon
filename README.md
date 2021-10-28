@@ -47,7 +47,7 @@ Actuellement étudiant en 1er année à l'école d'ingénieur ISIMA (Institut Su
 ## Projet d'avenir
 - Génie Logiciel pour la création d'application sur PC
 - Métiers dans la cybersécurité ( encore en recherche d'un métiers plus précis )
-- Chercheur dans le domaine de l'algorithme 
+- Chercheur dans le domaine de l'algorithmique
 
 <!---
 valerianCapon/valerianCapon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
